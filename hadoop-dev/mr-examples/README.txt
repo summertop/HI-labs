@@ -1,6 +1,6 @@
 Running mapreduce examples that ship with Hadoop
 
-
+cp -r HI-labs winterbottom/HI-labs
 == STEP 1)
     lets copy some files into hdfs, we will use Hadoop config files
 
